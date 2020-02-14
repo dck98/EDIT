@@ -6,3 +6,5 @@ super mario
 ludo
 counter strick
 snake and ladder
+logo design
+folow the path
