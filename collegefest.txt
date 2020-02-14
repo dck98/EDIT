@@ -2,5 +2,7 @@ event list
 nfs
 fifa
 blind typing
+super mario
 ludo
 counter strick
+snake and ladder
